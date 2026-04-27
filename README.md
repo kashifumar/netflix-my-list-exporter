@@ -357,5 +357,4 @@ No data is sent to any external server. All DOM scraping, Excel generation, and 
 ## Author
 
 **KASHIF UMAR**  
-[LinkedIn](https://www.linkedin.com/in/kashif-umar/) · [X](https://x.com/kashif_umar)  
 © 2025 All rights reserved. Unauthorized reproduction is not permitted.
